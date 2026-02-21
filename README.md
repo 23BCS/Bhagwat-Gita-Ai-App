@@ -1,16 +1,85 @@
-# app
+📿 Bhagwat Gita AI
 
-A new Flutter project.
+An AI-powered spiritual companion built using Flutter that provides timeless wisdom from the Bhagavad Gita through an interactive chat interface.
 
-## Getting Started
+This app helps users explore teachings of Lord Krishna by asking life-related questions and receiving relevant verses with translations.
+###################
 
-This project is a starting point for a Flutter application.
+Deployment
+bhagwat-gita-ai-qc4vhljad-args-projects-c8064b5e.vercel.app
 
-A few resources to get you started if this is your first Flutter project:
+#############################
+✨ Features
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+🕉️ AI-powered spiritual guidance
+📖 Random Bhagavad Gita verse generation
+🔍 Verse search functionality
+🌐 Live API integration
+💬 Chat-based UI
+🌙 Dark theme modern UI
+🙏 Sanskrit + Hindi + English translations
+⚙️ Settings screen
+🚀 Splash screen support
+📱 Responsive design (Mobile + Web ready)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+🧠 How It Works
+
+The app connects with the Bhagavad Gita API and intelligently:
+
+Fetches random verses
+
+Matches wisdom with user queries
+
+Displays:
+
+Sanskrit Slok
+
+Transliteration
+
+English Translation
+
+Hindi Meaning
+
+Users can ask questions like:
+
+What is Dharma?
+
+How to overcome fear?
+
+What is Karma?
+
+How to find inner peace?
+
+And receive spiritually relevant answers.
+
+🎯 Future Enhancements
+
+🎤 Voice input
+
+🧘 Meditation mode
+
+🔔 Daily wisdom notifications
+
+🤖 ChatGPT-powered interpretation
+
+📚 Bookmark verses
+
+🌍 Multi-language support
+
+📸 Screens
+
+(Add screenshots here later)
+
+👨‍💻 Author
+
+Arg (Anand Ranjan)
+Flutter Developer | Web Developer
+
+🪔 Inspiration
+
+“You have the right to perform your duties, but not to the fruits of your actions.”
+— Bhagavad Gita 2.47
+
+📜 License
+
+This project is open-source and free to use for educational and spiritual purposes.
