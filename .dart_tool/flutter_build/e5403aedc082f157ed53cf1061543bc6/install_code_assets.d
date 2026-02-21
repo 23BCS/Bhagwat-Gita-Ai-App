@@ -1,0 +1,1 @@
+ C:\\Users\\ASUS\\Desktop\\android\\bhagwatgeeta.ai\\app\\.dart_tool\\flutter_build\\e5403aedc082f157ed53cf1061543bc6\\native_assets.json: 
